@@ -1,0 +1,2 @@
+ru/tcavs/registry/RegistryApplication.java
+ ru.tcavs.registry.RegistryApplication
